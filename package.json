@@ -1,0 +1,23 @@
+{
+  "name": "theneedledrop-reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodolfo Rodriguez <mail@rodolfor.com> (http://rodolfor.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "json-file": "^0.1.0",
+    "jsonfile": "^3.0.1",
+    "lodash": "^4.17.4",
+    "scrape-it": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
